@@ -11,11 +11,10 @@ namespace PrivateStudent
             set {
                 if(!(string.IsNullOrWhiteSpace(value)) && value.Length == 5)
                 {
+                    bool check = false;
+                    bool check1 = false;
                     foreach (var item in value)
                     {
-                        bool check = false;
-                        bool check1 = false;
-
                         if (char.IsLetter(item)) {
                             check = true;
                         }
