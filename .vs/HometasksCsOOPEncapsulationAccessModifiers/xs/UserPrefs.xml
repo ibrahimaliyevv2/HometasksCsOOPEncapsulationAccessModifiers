@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A38D2C7F-79ED-4CB9-B6AE-6ECA514095AF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HometasksCsOOPEncapsulationAccessModifiers/Program.cs">
+    <Files>
+      <File FileName="HometasksCsOOPEncapsulationAccessModifiers/User.cs" Line="32" Column="48" />
+      <File FileName="HometasksCsOOPEncapsulationAccessModifiers/Program.cs" Line="28" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HometasksCsOOPEncapsulationAccessModifiers" expanded="True">
+            <Node name="HometasksCsOOPEncapsulationAccessModifiers" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.HometasksCsOOPEncapsulationAccessModifiers PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
